@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357952Z
+addr = 0x2e76c0
+size = 0x6b
+name = "CNetworkSystem_CloseAllSockets"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_CloseAllSockets"
+addr = 0x2e76c0
+type = "long long"
+
+[header.args]

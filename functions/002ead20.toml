@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357958Z
+addr = 0x2ead20
+size = 0xbe5
+name = "CNetworkSystem_PollSocket"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_PollSocket"
+addr = 0x2ead20
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357948Z
+addr = 0x2dcd60
+size = 0x39f
+name = "CNetworkSystem_OpenSocket"
+type = "bool"
+
+[header]
+name = "CNetworkSystem_OpenSocket"
+addr = 0x2dcd60
+type = "bool"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357924Z
+addr = 0x2b7980
+size = 0x286
+name = "CNetworkMessages_FindNetworkMessagePartial"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_FindNetworkMessagePartial"
+addr = 0x2b7980
+type = "long long"
+
+[header.args]

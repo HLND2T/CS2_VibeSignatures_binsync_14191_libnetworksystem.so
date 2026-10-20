@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:09:33.357921Z
+addr = 0x2b6b20
+size = 0xa86
+name = "CNetworkMessages_dtor"
+
+[header]
+name = "CNetworkMessages_dtor"
+addr = 0x2b6b20
+
+[header.args]

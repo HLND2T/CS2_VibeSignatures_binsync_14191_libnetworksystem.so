@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357875Z
+addr = 0x299740
+size = 0x577
+name = "CNetChan_ParseNetMessageShowFilter"
+type = "long long"
+
+[header]
+name = "CNetChan_ParseNetMessageShowFilter"
+addr = 0x299740
+type = "long long"
+
+[header.args]

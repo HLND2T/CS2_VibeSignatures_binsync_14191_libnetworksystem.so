@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:34.372434Z
+addr = 0x2d78e0
+size = 0x1555
+name = "CNetworkSystem_SendNetworkStats"
+type = "void"
+
+[header]
+name = "CNetworkSystem_SendNetworkStats"
+addr = 0x2d78e0
+type = "void"
+
+[header.args]

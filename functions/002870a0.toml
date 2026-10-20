@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357860Z
+addr = 0x2870a0
+size = 0x2d1
+name = "CNetChan_SendData"
+type = "long long"
+
+[header]
+name = "CNetChan_SendData"
+addr = 0x2870a0
+type = "long long"
+
+[header.args]

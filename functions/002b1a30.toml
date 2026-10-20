@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357887Z
+addr = 0x2b1a30
+size = 0x8
+name = "CNetworkMessages_AllowAdditionalMessageRegistration"
+type = "void"
+
+[header]
+name = "CNetworkMessages_AllowAdditionalMessageRegistration"
+addr = 0x2b1a30
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357904Z
+addr = 0x2b2a40
+size = 0xfa
+name = "CNetworkMessages_RegisterFieldChangeCallbackPriority"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_RegisterFieldChangeCallbackPriority"
+addr = 0x2b2a40
+type = "long long"
+
+[header.args]

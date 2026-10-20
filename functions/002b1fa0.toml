@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:33.357894Z
+addr = 0x2b1fa0
+size = 0x134
+name = "CNetworkMessages_RegisterNetworkCategory"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkCategory"
+addr = 0x2b1fa0
+type = "long long"
+
+[header.args]
